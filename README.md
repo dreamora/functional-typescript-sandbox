@@ -1,3 +1,14 @@
+# Personal functional typescript react sandbox
+
+This is a personal sandbox to experiment and build up deeper knowledge starting from a heavily C# influenced background.
+The aim is to first deepen my functional typescript and its powerful patterns to build from there towards functional typescript fullstack setup with react.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
